@@ -17,4 +17,4 @@ This is a simple calculator built using HTML and Python (Flask) to perform basic
 This Simple Calculator with Portal project demonstrates how to build a basic calculator with a user login portal. Using Flask for the backend, it allows users to log in and perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Acknowledgement
-This project is done under guidance of [Dr Agughasi Victor Ikechukwu](Victor-Ikechukwu)
+This project is done under guidance of [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu/Victor-Ikechukwu)
